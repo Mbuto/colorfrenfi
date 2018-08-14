@@ -1,0 +1,103 @@
+body,
+.entry-text {
+    font-size: 14pt !important; line-height: 120% !important;
+}
+.well,
+.nav {
+    background-color: rgb(100, 100, 100);
+}
+.container .entry-text,
+body,
+.comment,
+.footer,
+.span4, .span9 {
+    color: yellow;
+    background-color: rgb(0, 16, 24);
+    font-size: 14pt; font-family: serif;
+}
+
+.container, .navbar-inner, .navbar-fixed-top { background-color: rgb(0, 16, 24) !important; }
+/**/
+.media-body,
+.span2,
+.span11,
+.span10 {
+    color: yellow;
+    font-size: 14pt; font-family: serif;
+}
+.span3 {
+    color: black;
+    font-size: 14pt; font-family: serif;
+}
+.media-body {
+    background-color: rgb(0, 16, 24);
+    font-size: 14pt; font-family: serif;
+}
+textarea {
+    font-size: 14pt; font-family: serif;
+}
+.room-date {
+    color: white;
+}
+/* .likers {display: inline; background-color: rgb(50,50,50); }
+// .dislikers {display: inline; background-color: rgb(100,50,50); }
+// .ffimport {display: none; }
+*/
+
+.nav-list a {
+    color: gold;
+}
+li a:hover {
+    background-color: blue !important
+}
+/*
+#fbLink_2036 {
+    background-color: purple
+}
+#fbLink_2832 {
+    background-color: black
+}
+*/
+#roomLink_2862 {
+    background-color: purple;
+}
+#roomLink_526 {
+    background-color: orange;
+}
+#roomLink_526 a {
+    color: black
+}
+/*
+#fbLink_2818 {
+    background-color: orange;
+}
+#fbLink_2818 a {
+    color: black
+}
+*/
+.highlight {
+    background-color: blue
+}
+
+/*
+.commentLinks:before {
+    content: attr(title);
+    font-size: 8pt;
+    color: white;
+    white-space: nowrap;
+}
+*/
+/*
+.dropdown {
+   background-color: rgb(0, 16, 24);
+}
+*/
+.dropdown a {    color: white !important;
+   background-color: rgb(0, 16, 24);
+ }
+.pull-right {
+    color: white;
+}
+
+.comment-text em { color: orange; }
+.row { background-color: black; }
